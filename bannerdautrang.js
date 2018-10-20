@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.dautudat.vn/san-pham/alibaba-tan-thanh-center-city-6' target='_blank'><img src='http://www.dautudat.vn/usercontent/site_cf047b861f274a88ba1b793ca3882706/imagebrowser/toa-dam-minh-bach-so-do-2.jpg' width='500px'/><br/>Alibaba Tân Thành Center City 6</a>. Phòng kinh doanh 0937 091 291<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.dautudat.vn/san-pham/alibaba-tan-thanh-center-city-6' target='_blank'><img src='https://4.bp.blogspot.com/-5bbFuXb3kr8/W8tQGXXWG4I/AAAAAAAAJBM/Ld4a092puvQEzk_496ZGnwBbskGZef_WACLcBGAs/s640/alibaba-tan-thanh-center-city-6-phoicanh.jpg' width='500px'/><br/>Alibaba Tân Thành Center City 6</a>.HOTLINE 0937 091 291<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
