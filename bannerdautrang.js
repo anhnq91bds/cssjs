@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.dautudat.vn/' target='_blank'><img src='http://www.dautudat.vn/san-pham/alibaba-tan-thanh-center-city-6' width='500px'/><br/>13 Điểm đến của các nhà đầu tư</a>. HOTLINE 0937 091 291. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.dautudat.vn/' target='_blank'><img src='http://www.dautudat.vn/usercontent/site_cf047b861f274a88ba1b793ca3882706/imagebrowser/a96ccff672cb9295cbda.jpg' width='500px'/><br/>Điểm đến của các nhà đầu tư</a>. Hotline 0937 091 291. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
