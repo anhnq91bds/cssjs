@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.dautudat.vn/' target='_blank'><img src='http://www.dautudat.vn/usercontent/site_cf047b861f274a88ba1b793ca3882706/imagebrowser/a96ccff672cb9295cbda.jpg' width='500px'/><br/>Điểm đến của các nhà đầu tư</a>. Hotline 0937 091 291. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.dautudat.vn/san-pham/tan-thanh-center-city-1'><img src='http://www.dautudat.vn/usercontent/site_cf047b861f274a88ba1b793ca3882706/imagebrowser/T%C3%A2n%20Th%C3%A0nh%2FTAN-THANH2.png' width='500px'/><br/>Alibaba Tân Thành Center City 1</a>. Phòng kinh doanh 0937 091 291<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
